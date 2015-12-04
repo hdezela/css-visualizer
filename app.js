@@ -25,6 +25,12 @@ var App = {
             url: 'music/Alex Metric - Scandalism.mp3'
         },
         {
+            artist: 'Test',
+            title: 'Probando',
+            format: 'm3u8',
+            url: 'https:\/\/m3u8.canalfuxion.tv\/audio\/121\/121.m3u8?access=237159020912'
+        },        
+        {
             artist: 'Kygo',
             title: 'Sexual Healing (Remix)',
             format: 'mp3',
